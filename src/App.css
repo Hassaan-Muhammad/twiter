@@ -1,6 +1,28 @@
-.App {
+/* .App {
   text-align: center;
+} */
+
+.room{
+  height: 100vh;
+
 }
+.lit{
+  --main-color: black;
+  background-color: white;
+  transition: .3s
+}
+.dark{
+  --main-color: white;
+  background-color: black;
+  transition: .3s
+}
+
+.icon{
+  color: var(--main-color);
+  font-size: larger;
+}
+
+
 
 .App-logo {
   height: 40vmin;

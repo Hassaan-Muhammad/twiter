@@ -1,23 +1,28 @@
-import logo from './logo.svg';
+import React from 'react';
 import './App.css';
+import Page from './components/post/post';
+import Navbar from './components/navbar/navbar';
+import Left from './components/left/left';
+// import Right from './components/right/right';
+import { useState } from "react"
+
+
 
 function App() {
+  const [isLit, setLit] = useState(true)
+
+  const  click = () =>{
+      setLit( !isLit )
+  }
+
   return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
+    <div className={`room ${(isLit) ? "lit" : "dark " }`}>
+
+       
+        <Navbar click={click}/> 
+       <Left/> 
+       {/* <Right/> */}
+      <Page /> 
     </div>
   );
 }

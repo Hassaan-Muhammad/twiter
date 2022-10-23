@@ -1,0 +1,100 @@
+.leftside{
+    margin-top: 55px;
+    margin-left: 15px;
+    position: fixed;
+    width: 300px;
+    background-color: var(--bg-color);
+    color: var(--main-color);
+}
+
+p{
+    padding-left: 12px;
+    font-weight: 200;
+    font-size: 16px;   
+    font-family: 'Roboto', 'Droid Sans', Helvetica, sans-serif;
+}
+
+h3{
+    padding-left: 12px;
+}
+
+.side1 .homeicon{
+    display: flex;
+    align-items: center;
+    justify-content: start;
+}
+.i1{
+color: rgb(0, 106, 255);
+}
+.i2{
+    border-radius: 30px;
+}
+.sideProfilePic{
+    
+    display: flex;
+    align-items: center;
+    justify-content: start;
+}
+
+.menu{
+    display: flex;
+    align-items: center;
+    justify-content: start;
+}
+
+.friends{
+    display: flex;
+    align-items: center;
+    justify-content: start;
+}
+.watch{
+    display: flex;
+    align-items: center;
+    justify-content: start;
+}
+.shop{
+    display: flex;
+    align-items: center;
+    justify-content: start;
+}
+.gaming{
+    display: flex;
+    align-items: center;
+    justify-content: start;
+}
+.i3{
+    color: #218db4;
+}
+.i4{
+    color: #218db4;
+}
+.i5{
+    color: #218db4;
+}
+.i6{
+    color: #218db4;
+}
+
+
+
+.Groups{
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: start;
+}
+.G1{
+    display: flex;
+    align-items: center;
+    justify-content: start;
+}
+.G2{
+    display: flex;
+    align-items: center;
+    justify-content: start;
+}
+.G3{
+    display: flex;
+    align-items: center;
+    justify-content: start;
+}

@@ -1,0 +1,15 @@
+.rightside{
+    height: 50%;
+    margin-left: 80%;
+    margin-top: 55px;
+    /* position: fixed; */
+}
+.head{
+    display: flex;
+    align-items: center;
+    justify-content: start;
+    padding-left: 55%;
+    
+}
+
+

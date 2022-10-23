@@ -1,0 +1,52 @@
+.post {
+    border: 1px solid var(--main-color);
+    border-radius: 20px;
+    width: 450px;
+    padding: 20px;
+    margin: 20px;
+    /* background-color: var(--bg-color);
+    color: var(--main-color); */
+    margin-top: 20px;
+
+}
+
+.p1{
+    margin-top: 60px;
+}
+
+.p2{
+    background-color: var(--bg-color);
+    color: var(--main-color);
+}
+
+.post .postHeader{
+    display: flex;
+    align-items: center;
+    margin-bottom: 10px;
+}
+
+.post .profilePhoto {
+    width: 30px;
+    height: 30px;
+    border-radius: 50%;
+    margin-right: 10px;
+}
+
+.post .postImage{
+    width: 450px;
+    margin-top: 10px;
+   
+
+}
+
+.post .postFooter{
+    display: flex;
+    justify-content: space-around;
+    margin-top: 10px;
+}
+.page{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-top: 0%;
+}
