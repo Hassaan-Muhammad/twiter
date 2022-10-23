@@ -46,7 +46,7 @@ function Page() {
         profilePhoto="https://news.microsoft.com/wp-content/uploads/prod/sites/133/2018/07/sayed11-215x215.jpg"
         postTime="12 Apr 22"
         postText="Chainsaw Man follows the story of Denji, an impoverished young man who makes a contract that fuses his body with that of a dog-like devil named Pochita, granting him the ability to transform parts of his body into chainsaws."
-        postImage="https://scontent.fkhi22-1.fna.fbcdn.net/v/t39.30808-6/312215542_120607880799057_5096196978958358731_n.jpg?stp=cp6_dst-jpg&_nc_cat=108&ccb=1-7&_nc_sid=8bfeb9&_nc_eui2=AeF4tNtCibVWE-PzWWdpAIPw2mXaiu42oxjaZdqK7jajGCjLmO2jc5T5hiFcg2Vex8e0pRRfSV2goZ0Wd32eR7lH&_nc_ohc=HgQl0SkTzy0AX_qmdfV&_nc_ht=scontent.fkhi22-1.fna&oh=00_AT_buwTJCvkr_9JlrpowQ87stLGM2qDK2N5zKQ4Moxz1Og&oe=6358B120"
+        postImage="https://scontent.fkhi22-1.fna.fbcdn.net/v/t39.30808-6/311605052_645751980443434_3067620997962997180_n.jpg?_nc_cat=110&ccb=1-7&_nc_sid=8bfeb9&_nc_eui2=AeFOaQsW5J5CuynMhXS99PzWUmcfWrvLmn1SZx9au8uafZiiH7f68bpxcc09s9DeKBtXgpz0UylEBygTGWpjL37Z&_nc_ohc=3Q_1QmDe88YAX8HbEf6&_nc_ht=scontent.fkhi22-1.fna&oh=00_AT--QU5NqzMply5TCliDsCEkEv4hU32SGGNtGRA9L0zOwA&oe=6359758E"
       />
     </div>
 

@@ -7,7 +7,7 @@ import "./navbar.css";
 
 const head = (props) => {
     return (
-        <div className='header'>
+        
             <div className='head'>
 
                 <div className='head1'>
@@ -51,7 +51,6 @@ const head = (props) => {
 
 
             </div>
-        </div>
     )
 }
 export default head;

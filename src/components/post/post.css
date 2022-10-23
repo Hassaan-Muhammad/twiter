@@ -4,8 +4,8 @@
     width: 450px;
     padding: 20px;
     margin: 20px;
-    /* background-color: var(--bg-color);
-    color: var(--main-color); */
+    background-color: var(--bg-color);
+    color: var(--main-color);
     margin-top: 20px;
 
 }
