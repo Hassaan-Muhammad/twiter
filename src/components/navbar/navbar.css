@@ -3,6 +3,7 @@
 .head {
     position: fixed;
     background-color: var(--bg-color);
+    /* background-color: white; */
     color: var(--main-color);
     display: flex;  
     flex: 0.9;

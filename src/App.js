@@ -1,6 +1,6 @@
 import React from 'react';
 import './App.css';
-import Page from './components/post/post';
+import Appx from './components/post/post';
 import Navbar from './components/navbar/navbar';
 import Left from './components/left/left';
 // import Right from './components/right/right';
@@ -17,12 +17,11 @@ function App() {
 
   return (
     <div className={`room ${(isLit) ? "lit" : "dark " }`}>
-
        
         <Navbar click={click}/> 
        <Left/> 
        {/* <Right/> */}
-      <Page /> 
+      <Appx /> 
     </div>
   );
 }

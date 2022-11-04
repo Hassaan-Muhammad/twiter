@@ -1,9 +1,43 @@
+
+.postForm{
+    border: 1px solid var(--main-color);
+    border-radius: 20px;
+    width: 28%;
+    padding: 20px;
+    margin-left: 550px;
+    /* margin-top: 30px; */
+
+}
+.textArea{
+    border: 1px solid var(--main-color);
+    border-radius: 50px;
+    width: 100%;
+    padding: 5px;
+
+}
+.fileUpload{
+    justify-content: center;
+}
+
+.postbyUser{
+    border: 1px solid var(--main-color);
+    border-radius: 20px;
+    width: 450px;
+    padding: 20px;
+    margin-left: 550px;
+    background-color: var(--bg-color);
+    color: var(--main-color);
+    margin-top: 20px;
+}
+.uploadedImg{
+    width: 450px;
+}
+
 .post {
     border: 1px solid var(--main-color);
     border-radius: 20px;
     width: 450px;
     padding: 20px;
-    margin: 20px;
     background-color: var(--bg-color);
     color: var(--main-color);
     margin-top: 20px;
@@ -11,7 +45,7 @@
 }
 
 .p1{
-    margin-top: 60px;
+    margin-top: 20px;
 }
 
 .p2{

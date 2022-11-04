@@ -44,13 +44,13 @@ const left = (props) => {
             <div className='side3'>
                 <div className='Groups'> <MdGroups /> <h3>Groups</h3>  </div>
 
-                <div className='G1'><img src="https://scontent.fkhi22-1.fna.fbcdn.net/v/t39.30808-6/291662773_5192404890877254_3217037687966149563_n.jpg?_nc_cat=101&ccb=1-7&_nc_sid=8631f5&_nc_eui2=AeHcxQ7r3dNuDzzaWgzEoQhahlCX8RSOuZuGUJfxFI65m5ANUr_PY_YslnFsFlIJlH7RBmAqgw9DnE-o8NX122WL&_nc_ohc=ZF6HliTgzXcAX8tlMUx&_nc_ht=scontent.fkhi22-1.fna&oh=00_AT9rzb2lr45ean4yt1gC-oh519pW5fhlx2wijGccM8RnLQ&oe=63514EBC" alt="" width={20} />
+                <div className='G1'><img src="https://www.smiu.edu.pk/themes/smiu/images/smiu-pic01.jpg" alt="" width={20} />
                     <p>SMIU meme posting</p></div>
 
                 <div className='G2'><img src="https://scontent.fkhi22-1.fna.fbcdn.net/v/t1.6435-9/122772111_10221878275619877_6290543080817050964_n.jpg?_nc_cat=110&ccb=1-7&_nc_sid=8631f5&_nc_eui2=AeHUrt5MyL5SsSxlapo0XaxLFLwsBELRKBUUvCwEQtEoFbZ3oTl5ZpQC2sEKNxUOWufrWy7EBIIJ-QQcY4oX-FUU&_nc_ohc=pzJ_ZRXgfHkAX8bVOP8&_nc_oc=AQnEHTr610-6DWxyZkPEWOgbkjl-Sq-VUL79YGOqHlPU3ErrJopDuCBrqrqA_4GbXHg&tn=ifBEzjC9uXJa2EWA&_nc_ht=scontent.fkhi22-1.fna&oh=00_AT-N08CDvCLDFxu1RkliqQYU-MswND0q9jPnhAOGKyKlkA&oe=637202B9" alt="" width={20} />
                     <p>Tarakh metha ka olta chasma </p></div>
 
-                <div className='G3'><img src="https://scontent.fkhi22-1.fna.fbcdn.net/v/t39.30808-6/240765710_1533081610365759_5368536049517307104_n.jpg?_nc_cat=108&ccb=1-7&_nc_sid=8631f5&_nc_eui2=AeGoDd183dbFXOvgedpGkm9jreVEy_8tW-2t5UTL_y1b7dIXSjsT1xQlbDL1xRzutz8g55qQMv0wfV3PHDvyNE7a&_nc_ohc=k1rsMY1olYEAX9VWWhz&tn=ifBEzjC9uXJa2EWA&_nc_ht=scontent.fkhi22-1.fna&oh=00_AT_r2pwq3FBx46wICLc9M1ticKrNR2-NLXqaKJ4pg9Jo0g&oe=6350540E" alt="" width={20} />
+                <div className='G3'><img src="https://www.fitnessfirst.co.uk/media/cm2jlwu2/fitnessfirst_interiors-bakerst_147_web.jpg?width=540&height=405&quality=80&rnd=132869859581330000" alt="" width={20} />
                     <p>Gym posting</p></div>
 
             </div>
