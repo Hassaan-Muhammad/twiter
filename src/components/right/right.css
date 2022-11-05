@@ -1,15 +1,74 @@
 .rightside{
-    height: 50%;
+    /* height: 50%; */
     margin-left: 80%;
-    margin-top: 55px;
-    /* position: fixed; */
+    /* margin-top: 55px; */
+    position: fixed;
 }
 .head{
     display: flex;
     align-items: center;
     justify-content: start;
-    padding-left: 55%;
+    /* padding-left: 55%; */
     
 }
 
+.ad{
+    display: flex;
+    flex-direction: row;
+}
+.ad1{
+    margin-top: 5px;
+    display: flex;
+    flex-direction:row ;
+}
+.brandText{
+    margin-top: 0px;
+    text-decoration: none;
+    margin-left: 5px;
+    
+}
+
+.brandTextHeading{
+    margin-top: 40px;
+    margin-left: 5px;
+    
+}
+
+/* CONTACT BAR */
+.bar{
+    display: inline-flex;
+    align-items: baseline;
+    
+}
+.icons{
+    margin-left: 150px;
+}
+.video{
+    padding-right: 8px;
+}
+.dots{
+    padding-right: 8px;
+
+}
+.mag{
+    padding-right: 8px;
+}
+
+/* Online contact */
+
+.CDprofile{
+    border-radius: 50px;
+    height: fit-content;
+}
+
+.cd{
+    display: flex;
+    flex-direction: row;
+    align-items: baseline;
+}
+.cdText{
+    margin-left: 20px;
+    justify-content: center;
+    margin-top: 15px;
+}
 

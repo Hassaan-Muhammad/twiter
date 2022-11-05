@@ -3,9 +3,18 @@
 } */
 
 .room{
-  height: 100vh;
-
+  /* min-height: min-content;
+  max-height: max-content; */
 }
+.tenvh{
+  height: 10vh;
+}
+.nintyvh{
+  /* height: 90vh; */
+  min-height: min-content;
+  max-height: max-content;
+}
+
 .lit{
   --main-color: rgb(21, 20, 20);
   background-color: white;

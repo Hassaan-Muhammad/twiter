@@ -10,22 +10,26 @@ const right = (props) => {
 
                 <div className="spon"><h3>Sponsored</h3></div>
 
-                <div className="ad1">
-                    <img src="https://scontent.fkhi5-1.fna.fbcdn.net/v/t58.17529-6/100308571_806614580581931_3229529770411000564_n.jpg?_nc_cat=107&ccb=1-7&_nc_sid=6cb3ed&_nc_eui2=AeGg7L5gzvA7fb-4CCm46G8mwASMBWIez8_ABIwFYh7Pz_E4rEuFer7Zf-wVu_GTq4cZU9F1elbbBEusYTRgUNbp&_nc_ohc=MjAMMvG1sCYAX_vE_Xx&tn=ifBEzjC9uXJa2EWA&_nc_ht=scontent.fkhi5-1.fna&oh=00_AT9D1XfzWO6Xm3KLpr48xvIY7yegCvOcwwYlYclFZHtf4A&oe=634F1942" alt="" width={150} />
-                    <div className='set1'>
-                        <h4 className='head'>Now Rs:1990</h4>
-                        <p>outfiiters.compk</p>
-                    </div>
+                <div className="ad">
+                    <img src="https://cdn.shopify.com/s/files/1/2290/7887/products/F0208103220_3.jpg?v=1658733583" alt="" width={150} />
+                    <span className='set1'>
+                    <h4 className='brandTextHeading'>Outfitters</h4>
+                    <a className='brandText' href='https://outfitters.com.pk/products/f0206-106?variant=41492096057535&utm_source=Facebook&utm_campaign=All%20Placements%20%7C%20Remarketing%20%7C%20Catalog%20Sales%20%20%7C%2027-01-2021&utm_medium=paid&utm_term=All%20Website%20Visitors%20and%20Add%20to%20Carts%20-%20Last%20180%20Days%20%7C%20All%20Placements%20%7C%20All%20Men%27s%20Summer%20Product%20%7C%20All%20%7C%2018-65%2B&utm_content=All%20Men%27s%20Summer%20Collection%20%7C%2002-03-2021&fbclid=IwAR0MVIOKsoZdyx7dcKqnyoGtd0YfA6dfh1IvoFp8cppX_dfc-N7v9ONLOSc'>
+                    Outfiiters.compk</a>
+                    </span>
                 </div>
 
-                <div className="ad2">
-                    <img src="https://scontent.fkhi5-1.fna.fbcdn.net/v/t58.17529-6/174759404_2048106878715814_860850474191589235_n.jpg?_nc_cat=101&ccb=1-7&_nc_sid=6cb3ed&_nc_eui2=AeHVHzLDJKE6r3ak_3UzcX9r2cnSCQN0vA3ZydIJA3S8DWdWpiy40YIbyV5TFT-34tlmt_UweBWs9TYoo-u6J9zU&_nc_ohc=RnMB0bRMiTsAX9a1v5c&tn=ifBEzjC9uXJa2EWA&_nc_ht=scontent.fkhi5-1.fna&oh=00_AT8TuBNZbLR3jiw0VMo_ciMIAWZnlq-z_-cWLzwX4ZNpcQ&oe=634F3228" alt="" width={150} />
-                    <h4>NDURE</h4>
-                    <p>ndure.com</p>
+                <div className="ad1">
+                    <img src="https://cdn.shopify.com/s/files/1/2290/7887/products/F0290106618_3_7f3402f6-44f0-48f1-894a-6d454b683e51.jpg?v=1660815436" alt="" width={150} />
+                    <span className='set1'>
+                    <h4 className='brandTextHeading'>NDURE</h4>
+                    <a className='brandText' href='https://www.ndure.com/' >
+                    ndure.com</a>
+                    </span>
                 </div>
             </div>
 
-            <div className="Birthday">
+            {/* <div className="Birthday">
                 <div><h3>Birthdays</h3></div>
 
                 <div className="wish">
@@ -34,7 +38,7 @@ const right = (props) => {
                     <p>birthday today</p>
                 </div>
 
-            </div>
+            </div> */}
 
             <div className="contacts">
                 <div className='bar'>
@@ -50,24 +54,24 @@ const right = (props) => {
 
                 <div className='ContactDetails'>
 
-                    <div>
-                        <img className='CDprofile' src="https://scontent.fkhi5-2.fna.fbcdn.net/v/t39.30808-1/275144205_1599442833769337_1930652895224366154_n.jpg?stp=cp0_dst-jpg_p40x40&_nc_cat=103&ccb=1-7&_nc_sid=7206a8&_nc_eui2=AeG1KD-YMNib-Fb61AP0r_sjztbHrVcZcl7O1setVxlyXolEK9YB34Zhfkh4_Qh64HEvzW16PXi-FA8VYaRjagy2&_nc_ohc=jBuAwIgRFEcAX_caD5t&tn=ifBEzjC9uXJa2EWA&_nc_ht=scontent.fkhi5-2.fna&oh=00_AT-BXOgL4TBiD_ou0M6-9fGp4QOn2Fmh7suHorcoPLSPkw&oe=63526053" alt="" width={25} />
-                        <h5>Shoaib Ahmed</h5>
+                    <div className='cd'>
+                        <img className='CDprofile' src="https://scontent.fkhi22-1.fna.fbcdn.net/v/t1.6435-9/66653274_891752237871737_6834786104726519808_n.jpg?_nc_cat=110&ccb=1-7&_nc_sid=174925&_nc_eui2=AeGPgaEsT3IpehOnEWeFvp8YyCR42Y8v0yjIJHjZjy_TKBzf6YN8UER38r6oz3MYRoPrSj9Qmr3ObDGPoNDkccXF&_nc_ohc=-0AWJJH2MUAAX9wNlUl&tn=ifBEzjC9uXJa2EWA&_nc_ht=scontent.fkhi22-1.fna&oh=00_AfDbdYXWiAbqzZDdcCpUhVklIlGQlvacBm6_oSy7UXaqBQ&oe=638DA7F9" alt="" width={25} />
+                        <h5 className='cdText'>Shoaib Ahmed</h5>
                     </div>
 
-                    <div>
-                        <img className='CDprofile' src="https://scontent.fkhi5-2.fna.fbcdn.net/v/t39.30808-1/278033989_4900304783420121_2076340717544993623_n.jpg?stp=cp0_dst-jpg_p40x40&_nc_cat=105&ccb=1-7&_nc_sid=7206a8&_nc_eui2=AeFuYwNMtAaiSMs_ncTm4vQthO_Zl0-_GMuE79mXT78Yy3l0wlcxv0b63O-AnOjIkQJahgtOno-gsLLIlXuM6e3_&_nc_ohc=JcQ5lIQXSHUAX_J1l27&_nc_ht=scontent.fkhi5-2.fna&oh=00_AT8dWyn85ARyVPTn33OU4o1Wrg5iE27knv2g_3b2M9tIAg&oe=63518A97" alt="" width={25} />
-                        <h5>Muddasir Brahmani</h5>
+                    <div className='cd'>
+                        <img className='CDprofile' src="https://scontent.fkhi22-1.fna.fbcdn.net/v/t39.30808-6/308726312_1761995204154668_4264263450349056369_n.jpg?_nc_cat=109&ccb=1-7&_nc_sid=09cbfe&_nc_eui2=AeGq04S8zAdIJ85G7yPh_Z_95XINnOou-pHlcg2c6i76kUUJ13Gglxyb_TimzqsSkxTG_FYrqGGu08GAmlI-XEv5&_nc_ohc=6UKR1EjlYYIAX8t9cdm&_nc_oc=AQleZsCLl5HcOY8nZadFm5nYt13Bmhv5jFlYdoWJW4_tdiGORZ9JYaEwtZoR9i1JxEw&_nc_ht=scontent.fkhi22-1.fna&oh=00_AfBliEUAiA9ERvlQTwp1UyuTTFt0wRZx42f4hRRiP5-IOw&oe=636B6FBB" alt="" width={25} />
+                        <h5 className='cdText'>Zohair Sajjad</h5>
                     </div>
 
-                    <div>
-                        <img className='CDprofile' src="https://scontent.fkhi22-1.fna.fbcdn.net/v/t39.30808-1/279490519_5257804607612654_1524429002187659267_n.jpg?stp=cp0_dst-jpg_s40x40&_nc_cat=100&ccb=1-7&_nc_sid=7206a8&_nc_eui2=AeHddAv_2ZVz2uOGnpTRlouwGXENOOjk-I4ZcQ046OT4jr98WhXV_nMoKkoIIMdsp2bg1U1YNZw9t3qVuRokZLfL&_nc_ohc=RM8yXVysL1YAX_xbsEi&_nc_ht=scontent.fkhi22-1.fna&oh=00_AT-H8XlIt9a4elG8Y8A6ldcEXu5ZITWVhtTLD8ioN9ODOw&oe=6351AE6C" alt="" width={25} />
-                        <h5>Tallal Masuad</h5>
+                    <div className='cd'>
+                        <img className='CDprofile' src="https://scontent.fkhi22-1.fna.fbcdn.net/v/t39.30808-6/279490519_5257804607612654_1524429002187659267_n.jpg?_nc_cat=100&ccb=1-7&_nc_sid=09cbfe&_nc_eui2=AeHddAv_2ZVz2uOGnpTRlouwGXENOOjk-I4ZcQ046OT4jr98WhXV_nMoKkoIIMdsp2bg1U1YNZw9t3qVuRokZLfL&_nc_ohc=C2tjO6ZPZq0AX8dKPjV&_nc_ht=scontent.fkhi22-1.fna&oh=00_AfB-7yk8cDL_KVyYT1y9Oxf8ZaI-mt2A1rh84UScJIe2ew&oe=636A4FEA" alt="" width={25} />
+                        <h5 className='cdText'>Tallal Masuad</h5>
                     </div>
 
-                    <div>
-                        <img className='CDprofile' src="https://scontent.fkhi22-1.fna.fbcdn.net/v/t39.30808-1/285710244_1023865741856326_2760863608056738885_n.jpg?stp=cp0_dst-jpg_p40x40&_nc_cat=111&ccb=1-7&_nc_sid=7206a8&_nc_eui2=AeFXsXgD10ZG0ZQzUsrJALYrQTBmI6najSBBMGYjqdqNIMa2SrrFzVrS0sI40aiQ7NlJ-WCyPaKAFWjBGAZmOYoD&_nc_ohc=THX9t0irGjgAX9BItqo&_nc_ht=scontent.fkhi22-1.fna&oh=00_AT_YAGOrA6JHDvOLZfX3KsfN23gr5NLZvwJlS-LE0Qi-cw&oe=6352A9C6" alt="" width={25} />
-                        <h5>Huzaifa akbar</h5>
+                    <div className='cd'>
+                        <img className='CDprofile' src="https://scontent.fkhi22-1.fna.fbcdn.net/v/t39.30808-6/285710244_1023865741856326_2760863608056738885_n.jpg?_nc_cat=111&ccb=1-7&_nc_sid=09cbfe&_nc_eui2=AeFXsXgD10ZG0ZQzUsrJALYrQTBmI6najSBBMGYjqdqNIMa2SrrFzVrS0sI40aiQ7NlJ-WCyPaKAFWjBGAZmOYoD&_nc_ohc=Uc8UDhExXTwAX_Oy_zO&_nc_ht=scontent.fkhi22-1.fna&oh=00_AfClrtkwVLPwx6dPACIrhxq_aZPtNVoQF4Uj4lHgAnWlvQ&oe=636B4B48" alt="" width={25} />
+                        <h5 className='cdText'>Huzaifa akbar</h5>
                     </div>
 
                 </div>
