@@ -5,7 +5,7 @@ import { FontAwesomeIcon } from '@fortawesome/react-fontawesome'
 import { faThumbsUp, faComment, faShare, } from '@fortawesome/free-solid-svg-icons'
 
 import { useState, useEffect } from 'react';
-// import moment from 'moment';
+
 import axios from "axios";
 import { useFormik } from 'formik';
 import * as yup from 'yup';
